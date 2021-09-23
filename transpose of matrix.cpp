@@ -33,6 +33,7 @@ scanf("%d",&a[i][1]);
 /* Printing for testing the sparse input */
 printf("The martix you entered is 
 
+       
  Row  	 Col 	 Value 	");
 for ( i = 0;i <= a[0][2];i++)
 {
