@@ -1,5 +1,3 @@
-// CPP program to illustrate
-// std :: set_union
 #include <algorithm> // std::set_union, std::sort
 #include <iostream> // std::cout
 #include <vector> // std::vector
