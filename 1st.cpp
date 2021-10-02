@@ -4,7 +4,7 @@
 //1) Store last element in a variable say x. 
 //2) Shift all elements one position ahead. 
 //3) Replace first element of array with x.
-//4) 
+//4)  
 
 # include <iostream>
 using namespace std;
