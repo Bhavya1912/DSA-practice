@@ -129,7 +129,7 @@ for (i = 11; i <= 20; ++i)
     --num_of_ele;  
   }  
    
-  // Trying to Pop the element From the Empty Stack  
+  // Trying to Pop the element From the Empty Stack
   pop1 ();  
    
   return 0;  
